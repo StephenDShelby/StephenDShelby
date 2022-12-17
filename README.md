@@ -1,14 +1,4 @@
-Hi, I’m @StephenDShelby.
-
-I’m interested in git, GitHub, Unity, Node.js, Express.js, React ...
-
-I’m currently learning Unity and React.
-
-I’m looking to collaborate on creating games and websites.
-
-How to reach me:
-
-shelby.stephen@gmail.com
+<a href="https://app.daily.dev/stephen_shelby"><img src="https://api.daily.dev/devcards/f25a304122914053ac00408876abeba2.png?r=0rs" width="400" alt="Stephen Shelby's Dev Card"/></a>
 
 <!---
 StephenDShelby/StephenDShelby is a special repository because its `README.md` (this file) appears on your GitHub profile.
