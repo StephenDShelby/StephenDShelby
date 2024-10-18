@@ -1,7 +1,7 @@
 <!---
 New:
 <a href="https://app.daily.dev/stephen_shelby">
-<img src="https://api.daily.dev/devcards/v2/s5bC13ZSG.png?type=default&r=q7g" width="356" alt="Stephen Shelby's Dev Card"/>
+<img src="https://api.daily.dev/devcards/v2/s5bC13ZSG.png?type=wide&r=rbg" width="652" alt="Stephen Shelby's Dev Card"/>
 </a>
 --->
 
