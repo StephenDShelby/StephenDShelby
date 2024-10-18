@@ -6,7 +6,7 @@ New:
 --->
 
 <a href="https://app.daily.dev/stephen_shelby">
-<img src="https://github.com/StephenDShelby/StephenDShelby/blob/main/devcard.png" width="652" alt="Stephen Shelby's Dev Card"/>
+<img src="./devcard.png" width="652" alt="Stephen Shelby's Dev Card"/>
 </a>
 
 
